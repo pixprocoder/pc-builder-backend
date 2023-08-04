@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product A",
+    "category": {
+      "id": "1",
+      "name": "CPU",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Intel Core i9-11900K",
+          "category": "CPU / Processor",
+          "price": "$499.99",
+          "status": "In Stock",
+          "rating": "4.8 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "AMD Ryzen 9 5900X",
+          "category": "CPU / Processor",
+          "price": "$549.00",
+          "status": "In Stock",
+          "rating": "4.9 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Intel Core i7-11700K",
+          "category": "CPU / Processor",
+          "price": "$399.95",
+          "status": "Out of Stock",
+          "rating": "4.6 Stars"
+        }
+      ]
+    },
+    "price": 49.99,
+    "status": "In Stock",
+    "rating": 4.2
+  },
+  {
+    "id": "2",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product B",
+    "category": {
+      "id": "2",
+      "name": "Motherboard",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "ASUS ROG Strix Z590-E Gaming",
+          "category": "Motherboard",
+          "price": "$349.99",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "MSI MPG B550 Gaming Edge WiFi",
+          "category": "Motherboard",
+          "price": "$179.95",
+          "status": "In Stock",
+          "rating": "4.5 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Gigabyte B450 AORUS PRO Wi-Fi",
+          "category": "Motherboard",
+          "price": "$129.99",
+          "status": "Out of Stock",
+          "rating": "4.2 Stars"
+        }
+      ]
+    },
+    "price": 29.99,
+    "status": "Out of stock",
+    "rating": 3.8
+  },
+  {
+    "id": "3",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product C",
+    "category": {
+      "id": "3",
+      "name": "RAM",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3200MHz",
+          "category": "RAM",
+          "price": "$99.99",
+          "status": "In Stock",
+          "rating": "4.8 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "G.Skill Ripjaws V Series 32GB (2x16GB) DDR4 3600MHz",
+          "category": "RAM",
+          "price": "$179.95",
+          "status": "In Stock",
+          "rating": "4.9 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Crucial Ballistix 8GB DDR4 3200MHz",
+          "category": "RAM",
+          "price": "$59.99",
+          "status": "Out of Stock",
+          "rating": "4.6 Stars"
+        }
+      ]
+    },
+    "price": 19.99,
+    "status": "In Stock",
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product D",
+    "category": {
+      "id": "4",
+      "name": "Power Supply Unit",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "EVGA Supernova 750 G5, 750W 80+ Gold",
+          "category": "Power Supply Unit",
+          "price": "$129.99",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Corsair RM850x, 850W 80+ Gold",
+          "category": "Power Supply Unit",
+          "price": "$139.95",
+          "status": "In Stock",
+          "rating": "4.6 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Seasonic S12III 500W 80+ Bronze",
+          "category": "Power Supply Unit",
+          "price": "$69.99",
+          "status": "Out of Stock",
+          "rating": "4.3 Stars"
+        }
+      ]
+    },
+    "price": 39.99,
+    "status": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product E",
+    "category": {
+      "id": "5",
+      "name": "Storage Device",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+          "category": "Storage Device",
+          "price": "$179.99",
+          "status": "In Stock",
+          "rating": "4.9 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "WD Blue 2TB SATA SSD",
+          "category": "Storage Device",
+          "price": "$239.95",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Seagate BarraCuda 2TB HDD",
+          "category": "Storage Device",
+          "price": "$69.99",
+          "status": "Out of Stock",
+          "rating": "4.5 Stars"
+        }
+      ]
+    },
+    "price": 59.99,
+    "status": "Out of stock",
+    "rating": 3.6
+  },
+  {
+    "id": "6",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product F",
+    "category": {
+      "id": "6",
+      "name": "Monitor",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Dell S3221QS 32-inch 4K Curved Monitor",
+          "category": "Monitor",
+          "price": "$449.99",
+          "status": "In Stock",
+          "rating": "4.8 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "LG 27GL850-B 27-inch QHD Gaming Monitor",
+          "category": "Monitor",
+          "price": "$399.00",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "ASUS VG245H 24-inch Full HD Monitor",
+          "category": "Monitor",
+          "price": "$169.99",
+          "status": "Out of Stock",
+          "rating": "4.4 Stars"
+        }
+      ]
+    },
+    "price": 69.99,
+    "status": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "id": "7",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "Product F",
+    "category": {
+      "id": "7",
+      "name": "Others",
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Logitech G Pro Mechanical Gaming Keyboard",
+          "category": "Others",
+          "price": "$129.99",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Logitech G Pro Mechanical Gaming Keyboard",
+          "category": "Others",
+          "price": "$129.99",
+          "status": "Out of Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Logitech G Pro Mechanical Gaming Keyboard",
+          "category": "Others",
+          "price": "$129.99",
+          "status": "In Stock",
+          "rating": "4.7 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "Razer DeathAdder V2 Gaming Mouse",
+          "category": "Others",
+          "price": "$69.95",
+          "status": "In Stock",
+          "rating": "4.6 Stars"
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+          "product_name": "HyperX Cloud II Gaming Headset",
+          "category": "Others",
+          "price": "$99.99",
+          "status": "Out of Stock",
+          "rating": "4.5 Stars"
+        }
+      ]
+    },
+    "price": 69.99,
+    "status": "In Stock",
+    "rating": 4.7
+  }
+]

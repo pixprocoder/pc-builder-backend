@@ -1,0 +1,23 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore .env files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore files with a .tmp extension
+*.tmp
+
+# Ignore a specific file
+my_file.txt
+
+# Ignore all files in a directory and its subdirectories
+my_directory/
+
+# Ignore all files with a specific extension
+*.bak
