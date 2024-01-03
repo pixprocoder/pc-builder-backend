@@ -4,9 +4,9 @@ const router = express.Router();
 
 const moduleRoutes = [
   {
-    path: "",
+    path: "/test",
     route: (req: any, res: any) => {
-      res.send("helloworld");
+      res.send("hello world");
     },
   },
 ];
